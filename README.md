@@ -619,34 +619,5 @@ cp env.example .env
 - **Discussions**: Use GitHub Discussions for questions
 - **Email**: Contact the development team
 
-## 🗺️ Roadmap
-
-### Phase 1 (Current)
-- ✅ Core backend infrastructure
-- ✅ Patient management system
-- ✅ Health worker management
-- ✅ Facility management
-- ✅ Basic API endpoints
-
-### Phase 2 (Next)
-- 🔄 Advanced analytics dashboard
-- 🔄 Mobile API optimization
-- 🔄 Integration with external systems
-- 🔄 Advanced reporting features
-
-### Phase 3 (Future)
-- 📋 AI-powered health insights
-- 📋 Telemedicine integration
-- 📋 Advanced data visualization
-- 📋 Multi-language support
-
-## 🙏 Acknowledgments
-
-- Django community for the excellent framework
-- Healthcare professionals for domain expertise
-- Open source contributors for various packages
-- African healthcare workers for inspiration
-
----
 
 **OpenCare-Africa** - Empowering healthcare in Africa through technology.
